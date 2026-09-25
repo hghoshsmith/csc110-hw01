@@ -47,6 +47,7 @@ def main():
     # Your code for part 1 under this line and before the print statements
 
     # End of Part 1 ----------------------
+    print("Hello world!")
 
 
     # Part 2: Power
